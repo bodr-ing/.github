@@ -1,0 +1,21 @@
+name: Feature
+description: Propose something new
+labels: [feature]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: Who has this problem and when?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes, references, mockups

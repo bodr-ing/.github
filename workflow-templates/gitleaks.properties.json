@@ -1,0 +1,6 @@
+{
+  "name": "Secret scan (gitleaks)",
+  "description": "Scans the full git history for leaked keys and passwords on every push and pull request.",
+  "iconName": "octicon shield-lock",
+  "categories": ["Security"]
+}
