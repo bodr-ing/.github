@@ -3,7 +3,7 @@
 We build products and games, often in the open.
 
 ## Products
-- **Nodos** · [nodos.space](https://nodos.space), also known as Mentol
+- **Nodos** · [mentol.io](https://mentol.io), also known as Mentol
 - **Bodring Skills** · [skills.bodr.ing](https://skills.bodr.ing), agent skills
 - **Hand Up**
 
